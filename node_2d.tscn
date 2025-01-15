@@ -46,7 +46,7 @@ position = Vector2(70, -62)
 shape = SubResource("RectangleShape2D_y3mal")
 
 [node name="StaticBody2D3" type="StaticBody2D" parent="."]
-position = Vector2(423, 0)
+position = Vector2(524, 0)
 
 [node name="Sprite2D" type="Sprite2D" parent="StaticBody2D3"]
 position = Vector2(71, -69)
@@ -57,7 +57,7 @@ position = Vector2(70, -62)
 shape = SubResource("RectangleShape2D_y3mal")
 
 [node name="StaticBody2D4" type="StaticBody2D" parent="."]
-position = Vector2(225, 0)
+position = Vector2(249, 0)
 
 [node name="Sprite2D" type="Sprite2D" parent="StaticBody2D4"]
 position = Vector2(71, -69)
